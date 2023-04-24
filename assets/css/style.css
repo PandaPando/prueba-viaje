@@ -1,0 +1,18 @@
+body{
+background-color: #1e1c1c;
+}
+
+/* quienes somos */
+#quienes-somos i{
+font-size: 2.1rem;
+}
+
+/* contacto */
+#subscripcion{
+    height: 31.25;
+}
+
+/* footer */
+footer{
+    height: 6.25rem;
+}
