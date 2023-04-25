@@ -1,18 +1,69 @@
-body{
-background-color: #1e1c1c;
+body {
+    background-color: #1e1c1c;
+}
+
+/* navbar */
+nav .text-logo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+nav .nav-item {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+/* header */
+header img {
+    height: 56rem;
 }
 
 /* quienes somos */
-#quienes-somos i{
-font-size: 2.1rem;
+#quienes-somos h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#quienes-somos .card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#quienes-somos i {
+    font-size: 2.1rem;
+}
+
+/* destacados */
+#destacados h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#destacados .card {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 /* contacto */
-#subscripcion{
-    height: 31.25;
+#contact h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#contact label,
+button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
 }
 
 /* footer */
-footer{
-    height: 6.25rem;
+footer h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #fff;
+}
+
+footer i {
+    font-size: 30px;
+    color: #fff;
 }
